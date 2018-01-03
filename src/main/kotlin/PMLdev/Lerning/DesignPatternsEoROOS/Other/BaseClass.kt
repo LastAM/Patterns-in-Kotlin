@@ -1,4 +1,4 @@
-package PMLdev.Lerning.DesignPatternsEoROOS
+package PMLdev.Lerning.DesignPatternsEoROOS.Other
 
 typealias Coord = Double
 

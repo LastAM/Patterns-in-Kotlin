@@ -1,4 +1,4 @@
-package PMLdev.Lerning.DesignPatternsEoROOS.Creation
+package PMLdev.Lerning.DesignPatternsEoROOS
 
 enum class Direction {NORTH, SOUTH, WEST, EAST}
 interface MapSite{

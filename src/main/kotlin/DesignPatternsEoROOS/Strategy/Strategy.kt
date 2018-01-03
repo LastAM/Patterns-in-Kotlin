@@ -1,4 +1,4 @@
-package PMLdev.Lerning.DesignPatternsEoROOS.Strategy
+package PMLdev.Lerning.DesignPatternsEoROOS
 
 class Composition(val compositor: Compositor){
     fun Repair(){}
